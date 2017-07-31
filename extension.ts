@@ -1,7 +1,3 @@
-/**
- * Descritpion of a block
- */
-//% weight=1 color="#000000" icon="\uf2db"
 namespace exampel {
     /**
      * Help goes here.
