@@ -9,7 +9,6 @@
     "files": [
         "README.md",
         "extension.cpp",
-        "extension.ts",
         "shims.d.ts",
         "enums.d.ts"
     ],
