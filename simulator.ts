@@ -1,7 +1,7 @@
 namespace exampel{
-    //% blockId="alsf" block="sub %x| %y"
+    //% block
     //% shim=exampel::extfun
-    function extfun(x: number, y: number): number{
+    export function extfun(x: number, y: number): number{
         return x-y
     }
 }
